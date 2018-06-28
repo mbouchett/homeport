@@ -1,0 +1,102 @@
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+    }
+#wrapper{
+  padding: 0px 40px;
+}
+a {
+  text-decoration: none;
+  color: #000000
+}
+
+table{
+  width: 100%;
+}
+table.menu{
+  width: 600px;
+  margin: auto;
+  padding: 1px;
+  border: solid thick #000000;
+}
+table.count{
+  width: 960px;
+  margin: auto;
+}
+.print{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:14px;
+  border-right: solid;
+  border-right-width: thin;
+}
+.imgdefault {
+	text-align: center;
+	border: none;
+		}
+  .dashcell	{
+	text-align:center;
+          padding: 8px;
+          background-color: #555555;
+		}
+.vendor	{
+	text-align:left;
+          padding: 8px;
+          background-color: #555555;
+          color: #FFFF99;
+		}
+.gctable	{
+	background-image:url(dashboard/gc/images/gc.jpg);
+	width:400px;
+	height:250px;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:30px;
+		}
+.center		{ text-align:center; }
+  .dashbut    { width: 150px; }
+  .boldstandard{
+          font-weight: bold;
+               }
+h1 {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:24px;
+		color:#CE1326
+	}
+
+
+h2 { 
+		text-align:center;
+		margin: 2px;
+		font-family:Arial, Helvetica, sans-serif;
+		line-height:0px;
+}
+.sent{
+  position: fixed;
+  top: 250px;
+  left: 600px;
+}
+.sent img{
+  width: 150px;
+}
+p.breakhere {page-break-before: always}
+.summary{
+  font-family: Arial;
+  text-align: center;
+}
+
+.ordInput{
+  border: none;
+  box-shadow: none;
+  width: 75%;
+}
+.saveButton{
+  display: none;
+}
+.recd{
+  display: none;
+}
+.add{
+  display: none;
+}

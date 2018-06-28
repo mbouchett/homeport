@@ -1,0 +1,289 @@
+input[text]:focus { background-color: #33FFCC; }
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+    }
+body.dash{
+  background-color: #FFFFFF;
+  background: url(../../../images/burlington_map.jpg) repeat fixed;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+#wrapper{
+  padding: 0px 40px;
+}
+table{
+  width: 100%;
+}
+table.menu{
+  width: 600px;
+  margin: auto;
+  padding: 1px;
+  border: solid thick #000000;
+}
+table.wantlist{
+  font-family: Arial;
+  font-size: 10px;
+  color: #CC0000;
+  border-width: 1px;
+  border-spacing: 2px;
+  border-style: solid;
+  border-collapse: collapse;
+  width: 960px;
+  margin: auto;
+}
+table.count{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 960px;
+  margin: auto;
+}
+
+th{
+  font-size: 24px;
+}
+
+th.thsmall{
+  font-weight: normal;
+  font-size: 16px;
+}
+
+     a.main:visited { color: #000000; text-decoration: none; background: transparent;}
+     a.main:link { color: #000000; text-decoration: none; background: transparent;}
+     a.main:active { color: #000000; text-decoration: none; background: transparent;}
+     a.main:hover { color: #B7E8FF; text-decoration: none; background: transparent;}
+
+    .print      {
+ 		font-family:Arial, Helvetica, sans-serif;
+		font-size:14px;
+        border-right: solid;
+        border-right-width: thin;
+                }
+	.imgdefault {
+			text-align: center;
+			border: none;
+				}
+    .dashcell	{
+			text-align:center;
+            padding: 8px;
+            background-color: #555555;
+				}
+	.vendor	{
+			text-align:left;
+            padding: 8px;
+            background-color: #555555;
+            color: #FFFF99;
+				}
+	.gctable	{
+			background-image:url(dashboard/gc/images/gc.jpg);
+			width:400px;
+			height:250px;
+			padding-top:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+			padding-right:30px;		
+				}
+	.center		{ text-align:center; }
+    .dashbut    { width: 150px; }
+    .boldstandard{
+            font-weight: bold;
+                 }
+h1 {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:24px;
+		color:#CE1326
+	}
+
+
+h2 { 
+		text-align:center;
+		margin: 2px;
+		font-family:Arial, Helvetica, sans-serif;
+		line-height:0px;
+}
+h3 { 
+		color:#999933;
+		text-align:center;	
+}
+     .form       {
+            font-family: Arial;
+            font-size: 12px;
+            background-color: #00FFCC;
+                }
+.popup {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 35px;
+  position: fixed;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #000000;
+  border-radius: 5px;
+  width: 600px;
+  background: #CCFFFF;
+  visibility: hidden;
+  z-index: 9000;
+}
+.blackout {
+  position: fixed;
+  margin-left: -40;
+  height: 100%;
+  width: 100%;
+  background: #003300;
+  opacity: .65;
+  z-index: 8999;
+  visibility: hidden;
+
+}
+.sent{
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.sent img{
+  opacity: .40;
+}
+p.breakhere {page-break-before: always}
+#banner {
+  background: -moz-linear-gradient(left,  rgba(0,0,0,1) 24%, rgba(0,0,0,0.64) 51%, rgba(255,255,255,0) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(24%,rgba(0,0,0,1)), color-stop(51%,rgba(0,0,0,0.64)), color-stop(100%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  rgba(0,0,0,1) 24%,rgba(0,0,0,0.64) 51%,rgba(255,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  rgba(0,0,0,1) 24%,rgba(0,0,0,0.64) 51%,rgba(255,255,255,0) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  rgba(0,0,0,1) 24%,rgba(0,0,0,0.64) 51%,rgba(255,255,255,0) 100%); /* IE10+ */
+  background: linear-gradient(to right,  rgba(0,0,0,1) 24%,rgba(0,0,0,0.64) 51%,rgba(255,255,255,0) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
+  text-align: left;
+  padding: 5px;
+  margin: 0 0 20px 0;
+}
+
+#banner img{
+  border: none;
+}
+
+
+#menu {
+  float: right;
+  position: relative;
+  top: -15px;
+  text-align: right;
+  padding: 0;
+  padding-right: 10px;
+}
+
+#menu ul {
+list-style-type:none;
+padding: 0;
+padding-bottom: 0px;
+}
+
+#menu li {
+  margin-left: 10px;
+  display: inline-block;
+  padding: 0;
+}
+.menubutton {
+	-moz-box-shadow: 5px 5px 6px -3px #3d3d3d;
+	-webkit-box-shadow: 5px 5px 6px -3px #3d3d3d;
+	box-shadow: 5px 5px 6px -3px #3d3d3d;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #c70000), color-stop(1, #820000) );
+	background:-moz-linear-gradient( center top, #c70000 5%, #820000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c70000', endColorstr='#820000');
+	background-color:#c70000;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Engravers MT sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:6px 10px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #3d3d3d;
+    margin: 0;
+}
+.menubutton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #820000), color-stop(1, #c70000) );
+	background:-moz-linear-gradient( center top, #820000 5%, #c70000 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#820000', endColorstr='#c70000');
+	background-color:#820000;
+}
+.menubutton:active {
+	position:relative;
+	top:1px;
+}
+.plus{
+  cursor: pointer;
+  font-weight: bold;
+}
+#departments{
+  visibility: hidden;
+  width: 300px;
+  height: 300px;
+  overflow: scroll;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: #DEDEDE;
+
+}
+.labels{
+  text-decoration: underline;
+}
+.filter{
+	position: absolute;
+}
+
+/* This is the css that handles the picture popups */
+.thumbnail{
+position: relative;
+z-index: 0;
+}
+
+.thumbnail:hover{
+background-color: transparent;
+z-index: 50;
+}
+
+.thumbnail span{ /*CSS for enlarged image*/
+position: absolute;
+background-color: lightyellow;
+padding: 5px;
+top: -100px;
+left: -1000px;
+border: 1px solid Black;
+visibility: hidden;
+color: black;
+text-decoration: none;
+max-height: 350px;
+max-width: 350px;
+}
+
+.thumbnail span img{ /*CSS for enlarged image*/
+border-width: 0;
+padding: 2px;
+max-height: 350px;
+max-width: 350px;
+}
+
+.thumbnail:hover span{ /*CSS for enlarged image on hover*/
+visibility: visible;
+top: -100;
+left: 60px; /*position where enlarged image should offset horizontally */
+max-height: 350px;
+max-width: 350px;
+}
+.title{
+  font-size: 28px;
+  text-align: center;
+}
+.delete{
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    color: #FF0505;
+    font-weight: bold;
+}
+
+
+/* This is the css that handles the picture popups */

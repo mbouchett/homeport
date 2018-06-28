@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+table{
+  margin: auto
+}
+.email{
+  text-align: left;
+  width: 250px;
+}
+.names{
+  text-align: left;
+  width: 100px;
+}
+.numInput{
+  width: 50px;
+  font-family: Arial;
+}

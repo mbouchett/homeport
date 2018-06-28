@@ -1,0 +1,65 @@
+input[text]:focus { background-color: #33FFCC; }
+body {
+  background-color: #FFFFFF;
+  margin: 0;
+    }
+
+
+     a.main:visited { color: #000000; text-decoration: none; background: transparent;}
+     a.main:link { color: #000000; text-decoration: none; background: transparent;}
+     a.main:active { color: #000000; text-decoration: none; background: transparent;}
+     a.main:hover { color: #B7E8FF; text-decoration: none; background: transparent;}
+
+	.dashtable 	{ 
+			border-style: solid;
+			border-color: #CCCC66; 
+			border-width: 4px;
+			padding: 1px;
+		  		} 
+		  
+	.imgdefault {
+			align: center;
+			border: none;
+				}
+	.dashcell	{
+			text-align:center;
+            padding: 8px;
+            background-color: #555555;
+				}
+	.gctable	{
+			background-image:url(dashboard/gc/images/gc.jpg);
+			width:400px;
+			height:250px;
+			padding-top:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+			padding-right:30px;		
+				}
+	.center		{ text-align:center; }
+    .dashbut    { width: 170px; }
+    .dashbut2   { width: 75px; }
+    .boldstandard{
+            font-weight: bold;
+                 }
+h1 {
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:24px;
+		color:#CE1326
+	}
+
+
+h2 { 
+		text-align:center;
+		margin: 2px;
+		font-family:Arial, Helvetica, sans-serif;
+		line-height:0px;
+}
+h3 { 
+		color:#999933;
+		text-align:center;	
+}
+.form       {
+      font-family: Arial;
+      font-size: 12px;
+      background-color: #00FFCC;
+          }

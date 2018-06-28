@@ -1,0 +1,341 @@
+sofas,September 1st 2011,07:48am,5
+sofas,September 1st 2011,07:49am,5
+roll up blinds,September 1st 2011,10:38am,1
+mirror,September 1st 2011,12:10pm,9
+knifes,September 1st 2011,02:16pm,1
+knife,September 1st 2011,02:16pm,34
+paper stars,September 1st 2011,04:17pm,0
+stars,September 1st 2011,04:17pm,2
+food mill,September 1st 2011,04:19pm,2
+couch,September 1st 2011,06:28pm,0
+sofa,September 1st 2011,06:28pm,10
+lighting,September 1st 2011,06:52pm,3
+lamps and shades,September 1st 2011,06:52pm,0
+shades,September 1st 2011,06:53pm,5
+wicker,September 1st 2011,08:33pm,6
+bank,September 1st 2011,08:55pm,0
+pig,September 1st 2011,08:55pm,4
+piggy bank,September 1st 2011,08:55pm,0
+room dividers,September 2nd 2011,08:22am,1
+esspesso,September 2nd 2011,10:01am,0
+essrpesso,September 2nd 2011,10:01am,0
+esspresso,September 2nd 2011,10:01am,0
+espresso,September 2nd 2011,10:02am,16
+pillows,September 2nd 2011,10:53am,3
+toasters,September 2nd 2011,11:23am,1
+fish poacher,September 2nd 2011,12:50pm,0
+sofa,September 2nd 2011,09:19pm,10
+hammocks,September 3rd 2011,07:00am,0
+hammocks,September 3rd 2011,07:00am,0
+hammocks,September 3rd 2011,07:00am,0
+plates,September 3rd 2011,07:03am,7
+dinnerware,September 3rd 2011,07:03am,1
+tag,September 3rd 2011,07:04am,15
+sonoma,September 3rd 2011,07:24am,13
+futon,September 3rd 2011,10:21am,1
+sofa,September 3rd 2011,11:15am,10
+club chair,September 3rd 2011,12:25pm,1
+50s club chair,September 3rd 2011,12:25pm,0
+quinn chair,September 3rd 2011,12:25pm,0
+club chair,September 3rd 2011,12:25pm,1
+bodega,September 3rd 2011,12:43pm,0
+pallea pan,September 3rd 2011,01:01pm,0
+paella pan ,September 3rd 2011,01:01pm,1
+wooden bike basket,September 3rd 2011,01:38pm,0
+Chairs,September 3rd 2011,01:39pm,28
+Chair,September 3rd 2011,01:44pm,63
+Chair,September 3rd 2011,01:44pm,63
+futon,September 3rd 2011,02:11pm,1
+butterfly chair,September 3rd 2011,02:12pm,0
+bakers shellfs,September 3rd 2011,04:05pm,0
+bakers  cabinnet,September 3rd 2011,04:05pm,0
+canning,September 3rd 2011,05:09pm,1
+canning jar lifter,September 3rd 2011,05:10pm,0
+footstool,September 3rd 2011,05:20pm,0
+stool,September 3rd 2011,05:20pm,16
+sofa,September 3rd 2011,05:51pm,10
+olive oil bottle,September 3rd 2011,05:54pm,0
+store hours,September 3rd 2011,06:12pm,0
+klaussner,September 3rd 2011,08:47pm,0
+couch,September 3rd 2011,11:39pm,0
+futon,September 3rd 2011,11:39pm,1
+mercury lantern,September 4th 2011,12:23am,0
+stools,September 4th 2011,07:56am,3
+coat,September 4th 2011,09:57am,41
+coat,September 4th 2011,09:57am,41
+rocking chair,September 4th 2011,01:37pm,0
+rockers,September 4th 2011,01:46pm,2
+loveseat,September 4th 2011,04:12pm,5
+bean bag,September 4th 2011,04:12pm,1
+ice cube bin,September 4th 2011,04:59pm,0
+ice cube,September 4th 2011,04:59pm,2
+le creuset tea kettle,September 4th 2011,07:10pm,0
+le creuset tea kettle,September 4th 2011,07:11pm,0
+rug,September 4th 2011,08:44pm,22
+scale,September 4th 2011,09:34pm,6
+wooden towel hanger,September 5th 2011,08:48am,0
+Chair,September 5th 2011,09:56am,63
+futon,September 5th 2011,10:48am,1
+patio furniture,September 5th 2011,02:36pm,0
+under bed,September 5th 2011,02:41pm,1
+knob,September 5th 2011,02:44pm,75
+bookcases,September 5th 2011,03:53pm,3
+waring drink mixer,September 5th 2011,06:27pm,0
+blenders,September 5th 2011,06:29pm,1
+drink mixer,September 5th 2011,06:30pm,0
+waring,September 5th 2011,06:30pm,10
+pillows,September 6th 2011,06:38am,3
+paige,September 6th 2011,08:19am,0
+tablecloth,September 6th 2011,09:56am,2
+couch,September 6th 2011,11:30am,0
+sofa,September 6th 2011,11:30am,10
+bean bags,September 6th 2011,11:31am,1
+chairs,September 6th 2011,01:46pm,28
+desk,September 6th 2011,02:21pm,18
+marble,September 6th 2011,04:54pm,6
+shower curtain,September 6th 2011,05:43pm,31
+roman shades,September 6th 2011,07:24pm,1
+ramekin,September 6th 2011,09:02pm,0
+wicker,September 7th 2011,10:24am,6
+wicker,September 7th 2011,10:25am,6
+basket file,September 7th 2011,12:08pm,0
+files,September 7th 2011,12:08pm,3
+basket,September 7th 2011,12:08pm,13
+chairs,September 7th 2011,07:11pm,28
+tapestry,September 7th 2011,08:35pm,2
+soda machine,September 7th 2011,11:41pm,0
+machine,September 7th 2011,11:41pm,8
+water,September 7th 2011,11:42pm,35
+picnic basket,September 8th 2011,07:55am,1
+picnic basket,September 8th 2011,03:45pm,1
+small counter height table sets,September 8th 2011,06:22pm,0
+tapestry,September 8th 2011,10:13pm,2
+nespresso,September 9th 2011,07:55am,5
+cushion,September 9th 2011,09:42am,5
+white plates,September 9th 2011,11:28am,0
+plates,September 9th 2011,11:32am,7
+futon,September 9th 2011,01:31pm,1
+tapestry,September 9th 2011,02:27pm,2
+fairy lights,September 9th 2011,04:20pm,0
+lights,September 9th 2011,04:20pm,23
+canisters,September 9th 2011,05:38pm,0
+cannisters,September 9th 2011,05:39pm,0
+sheets,September 10th 2011,06:15am,2
+sheet,September 10th 2011,06:15am,8
+desks ,September 10th 2011,10:26am,1
+Pillow,September 10th 2011,10:33am,6
+garbage can,September 10th 2011,06:19pm,0
+trash cn,September 10th 2011,06:20pm,0
+trash can,September 10th 2011,06:20pm,3
+telephone stand,September 10th 2011,06:40pm,0
+stand,September 10th 2011,06:40pm,26
+chairs,September 11th 2011,06:51am,28
+rugs,September 11th 2011,06:52am,14
+paper lanterns,September 11th 2011,09:53am,1
+rugs,September 11th 2011,02:42pm,14
+pot rack,September 11th 2011,04:41pm,0
+pot hanger,September 11th 2011,04:42pm,0
+book shelves,September 11th 2011,04:47pm,1
+futons,September 11th 2011,08:12pm,0
+bed,September 11th 2011,08:13pm,29
+beds,September 11th 2011,08:13pm,1
+peace,September 11th 2011,11:37pm,3
+Lamp shade,September 12th 2011,08:44am,1
+Shade,September 12th 2011,08:44am,7
+saki,September 12th 2011,11:06am,0
+rugs,September 12th 2011,11:33am,14
+Cross Island Desk ,September 12th 2011,11:40am,1
+Cross Island  Small Leg Desk,September 12th 2011,11:40am,0
+Cross Island,September 12th 2011,11:41am,5
+Desk,September 12th 2011,11:41am,15
+Soda maker,September 12th 2011,11:48am,0
+Self,September 12th 2011,11:49am,12
+Seltzer,September 12th 2011,11:49am,0
+Cross Island Small Leg Desk,September 12th 2011,12:57pm,0
+Sleeper sofa,September 12th 2011,02:05pm,2
+Queen sleeper sofa,September 12th 2011,02:05pm,0
+Sleeper sofa,September 12th 2011,02:06pm,2
+binz,September 12th 2011,02:06pm,0
+fridge,September 12th 2011,02:06pm,1
+couch,September 12th 2011,10:17pm,0
+beverage dispensers,September 13th 2011,09:13am,0
+bed,September 13th 2011,09:31am,29
+Hours,September 13th 2011,04:17pm,6
+rugs,September 13th 2011,05:06pm,14
+Margarita,September 13th 2011,08:17pm,0
+rugs,September 13th 2011,09:49pm,14
+clocks,September 14th 2011,10:01am,2
+Kitchen Aid Grinder,September 14th 2011,10:18am,0
+mold,September 14th 2011,11:44am,1
+chocolate,September 14th 2011,11:44am,13
+chocolate mold,September 14th 2011,11:45am,0
+chairs,September 14th 2011,12:18pm,28
+papasan chair,September 14th 2011,12:21pm,2
+jute rugs,September 14th 2011,12:56pm,0
+sisal,September 14th 2011,12:57pm,0
+sisal,September 14th 2011,12:57pm,0
+rugs,September 14th 2011,12:57pm,14
+Lights,September 14th 2011,04:56pm,23
+carpet,September 14th 2011,07:34pm,2
+tapestry,September 14th 2011,11:26pm,2
+collapsable collander,September 15th 2011,01:41am,0
+collander,September 15th 2011,01:41am,0
+bed pillows,September 15th 2011,09:24am,0
+pillows,September 15th 2011,09:24am,3
+vases,September 15th 2011,11:31am,2
+Divider Screens,September 15th 2011,11:34am,0
+Screens,September 15th 2011,11:34am,2
+cable knit vase,September 15th 2011,11:37am,0
+chair,September 15th 2011,12:33pm,68
+rug,September 15th 2011,12:41pm,22
+laundry,September 15th 2011,01:18pm,7
+laundry hamper,September 15th 2011,01:19pm,1
+frame,September 15th 2011,04:10pm,25
+stainless espresso mugs,September 15th 2011,05:39pm,0
+stainless steel expresso mug,September 15th 2011,05:41pm,0
+french press,September 16th 2011,06:41am,2
+bookcase,September 16th 2011,11:50am,12
+paella,September 16th 2011,12:01pm,1
+couch,September 16th 2011,04:49pm,0
+sofa,September 16th 2011,04:49pm,10
+desk,September 17th 2011,08:24am,15
+bean bag ,September 17th 2011,10:12am,1
+bird,September 17th 2011,11:52am,2
+lamp bird,September 17th 2011,11:52am,0
+futons,September 17th 2011,01:22pm,0
+garlic roaster,September 17th 2011,02:48pm,1
+homestead,September 17th 2011,03:52pm,0
+twin bead sheets,September 17th 2011,03:52pm,0
+twin bed sheets,September 17th 2011,03:52pm,0
+twin bed sheets,September 17th 2011,03:52pm,0
+seltzer,September 17th 2011,05:44pm,0
+chair cushions,September 17th 2011,06:20pm,1
+soap,September 17th 2011,08:55pm,12
+Shelves,September 18th 2011,09:05am,6
+rhiannon,September 18th 2011,09:32am,0
+scale,September 18th 2011,10:31am,6
+poster of the United stats,September 18th 2011,11:31am,0
+bucket,September 18th 2011,11:43am,4
+food mill,September 18th 2011,11:45am,2
+tomato mill,September 18th 2011,11:46am,0
+sauce mill,September 18th 2011,11:46am,0
+quilt,September 18th 2011,05:12pm,2
+watering can,September 18th 2011,09:27pm,3
+curtains,September 19th 2011,07:27am,33
+bird cage,September 19th 2011,10:08am,0
+dmt,September 19th 2011,02:50pm,0
+diafold,September 19th 2011,02:50pm,0
+sharpening,September 19th 2011,02:50pm,4
+curtains,September 19th 2011,03:41pm,33
+coach,September 19th 2011,04:56pm,0
+wall pop,September 19th 2011,08:16pm,0
+stools,September 19th 2011,09:02pm,3
+coventry parthenon,September 19th 2011,11:05pm,1
+knob,September 20th 2011,12:17am,75
+beanbag,September 20th 2011,06:15am,1
+sofa,September 20th 2011,08:28am,10
+Cuisinart Green Gourmet Electric Skillet,September 20th 2011,09:05am,0
+bean bag,September 20th 2011,12:35pm,1
+kitchen island,September 20th 2011,02:27pm,4
+silver serving platter,September 20th 2011,07:41pm,0
+area rugs,September 21st 2011,07:34am,2
+childrens area rugs,September 21st 2011,07:36am,0
+area rugs,September 21st 2011,07:36am,2
+privacy screen,September 21st 2011,08:16am,0
+screen,September 21st 2011,08:16am,19
+pan,September 21st 2011,08:43am,55
+ceiling,September 21st 2011,08:43am,0
+measuring cups,September 21st 2011,10:55am,0
+measuring cups,September 21st 2011,10:55am,0
+furniture,September 21st 2011,11:46am,32
+chopsticks,September 21st 2011,03:41pm,1
+milk crates,September 21st 2011,03:42pm,0
+crates,September 21st 2011,03:42pm,0
+glass,September 21st 2011,08:48pm,76
+paper towel holder,September 21st 2011,10:38pm,1
+grow lamps,September 22nd 2011,08:28am,0
+Scale,September 22nd 2011,09:58am,6
+owners,September 22nd 2011,02:07pm,0
+chairs,September 22nd 2011,03:00pm,24
+door knob wall hooks,September 22nd 2011,03:51pm,0
+Futons,September 22nd 2011,04:08pm,0
+bed,September 22nd 2011,04:08pm,29
+juicer,September 22nd 2011,05:09pm,2
+chair,September 22nd 2011,09:07pm,56
+roundabout chair,September 22nd 2011,09:09pm,2
+bar stools,September 23rd 2011,08:44am,1
+bean bag,September 23rd 2011,10:27am,1
+alarm clock,September 23rd 2011,10:32am,5
+sisal rugs,September 23rd 2011,02:07pm,0
+tapestries,September 23rd 2011,03:30pm,1
+shower curtain,September 23rd 2011,03:50pm,31
+rug,September 23rd 2011,05:09pm,22
+barstools,September 23rd 2011,08:33pm,1
+Kruig,September 24th 2011,09:38am,0
+Coffee Makers,September 24th 2011,09:38am,2
+office chair,September 24th 2011,12:53pm,2
+couch slip covers,September 24th 2011,02:23pm,0
+slip covers,September 24th 2011,02:23pm,0
+posters,September 24th 2011,02:35pm,1
+multi skirt hanger,September 24th 2011,03:36pm,0
+skirt hanger,September 24th 2011,03:36pm,0
+shower curtains,September 24th 2011,08:25pm,30
+soap dish,September 24th 2011,08:30pm,2
+pillows,September 24th 2011,09:11pm,3
+wicker bench,September 25th 2011,07:53am,0
+porch bench,September 25th 2011,07:54am,0
+garden bench,September 25th 2011,07:54am,0
+lodge cast iron,September 25th 2011,08:55am,0
+couch,September 25th 2011,11:01am,0
+redneck wineglass,September 25th 2011,02:17pm,0
+redneck wine glasses,September 25th 2011,02:17pm,0
+canner,September 25th 2011,02:49pm,0
+table cloths,September 25th 2011,07:04pm,1
+market bag,September 25th 2011,07:04pm,0
+string bag,September 25th 2011,07:05pm,0
+bags,September 25th 2011,07:09pm,9
+travel coffee mug,September 25th 2011,09:38pm,0
+coffee,September 25th 2011,09:38pm,45
+rice paper lanterns,September 25th 2011,11:48pm,0
+paper lanterns,September 25th 2011,11:48pm,1
+clothes drying rack,September 26th 2011,06:44am,0
+floral utility knife,September 26th 2011,07:44am,0
+floral office tools,September 26th 2011,07:45am,0
+floral utility knife,September 26th 2011,07:45am,0
+linens,September 26th 2011,09:15am,0
+linen,September 26th 2011,09:15am,8
+tablecloth,September 26th 2011,09:16am,2
+wendy sofa,September 26th 2011,11:49am,1
+warehouse,September 26th 2011,11:53am,0
+tABLE CLOTH,September 26th 2011,12:29pm,1
+double old fashioned glasses,September 26th 2011,02:56pm,0
+lantern lights,September 26th 2011,03:13pm,0
+chaircushions,September 27th 2011,09:57am,0
+futon,September 27th 2011,03:24pm,1
+couch,September 27th 2011,03:24pm,0
+couch,September 27th 2011,09:37pm,0
+sofa,September 27th 2011,09:37pm,10
+Bar stool,September 28th 2011,06:43am,3
+sofas,September 28th 2011,07:24am,5
+fish poacher,September 28th 2011,08:55am,0
+Juicer,September 28th 2011,01:03pm,2
+tables,September 28th 2011,02:13pm,25
+1956,September 28th 2011,08:22pm,1
+picnic blanket,September 28th 2011,08:32pm,0
+picnic,September 28th 2011,08:32pm,2
+drainer,September 28th 2011,09:50pm,0
+drain,September 28th 2011,09:50pm,0
+kitchen,September 28th 2011,09:50pm,52
+coffee maker,September 29th 2011,07:24am,7
+glow sticks,September 29th 2011,07:35am,0
+Shelving,September 29th 2011,08:30am,3
+apton,September 29th 2011,08:47am,0
+apron,September 29th 2011,08:47am,2
+wall organizer,September 29th 2011,10:23am,0
+apron,September 29th 2011,01:54pm,2
+paper lamps,September 29th 2011,05:44pm,0
+Shelving,September 30th 2011,06:31am,3
+cow chair,September 30th 2011,07:35am,0
+lemonaide,September 30th 2011,08:10am,0
+curtains,September 30th 2011,08:47am,33
+curtains,September 30th 2011,08:48am,33
