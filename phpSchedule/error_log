@@ -1,0 +1,236 @@
+[20-May-2018 10:35:55 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 9999. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-May-2018 10:36:23 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 9999. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-May-2018 10:37:02 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 9999. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-May-2018 10:37:46 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 9999. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-May-2018 10:38:06 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 9999. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/5839.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:10 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/5320.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:11 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/3312.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/3137.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/3126.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/2940.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:12 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/2935.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/2225.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/2220.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1872.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1866.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1812.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1636.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1631.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1401.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1395.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:13 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/13380.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/13079.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/13069.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/13029.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fopen(../phpSchedule/data/apps/1191.txt): failed to open stream: No such file or directory in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 46
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 47
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 48
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 49
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 50
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 51
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 52
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 53
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 54
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fgets() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 55
+[20-May-2018 10:44:14 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/homeportonline/public_html/phpSchedule/reviewApps.php on line 57
