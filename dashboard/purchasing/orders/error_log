@@ -1,0 +1,78 @@
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 11:08:26 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 11:40:43 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 11:40:47 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 11:40:47 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 11:40:47 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 11:40:47 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 12:10:26 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 12:10:32 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/sentOrders.php on line 24
+[27-Jun-2018 12:10:32 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/sentOrders.php on line 29
+[27-Jun-2018 12:10:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/homeportonline/public_html/dashboard/purchasing/orders/sentOrders.php on line 30
+[27-Jun-2018 12:10:32 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/sentOrders.php on line 31
+[27-Jun-2018 13:31:22 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 13:31:22 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 15:55:49 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 29
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 31
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 32
+[27-Jun-2018 16:23:20 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 38
+[27-Jun-2018 17:31:59 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 51
+[27-Jun-2018 17:31:59 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 61
+[27-Jun-2018 17:31:59 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 63
+[27-Jun-2018 17:31:59 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 64
+[27-Jun-2018 17:31:59 America/New_York] PHP Warning:  mysqli_error(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/viewOrder.php on line 71
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 25
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 29
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 30
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php:25) in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 31
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 25
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 29
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 30
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php:25) in /home/homeportonline/public_html/dashboard/purchasing/orders/confirmOrder.php on line 31
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 15
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 17
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 18
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 15
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 17
+[27-Jun-2018 20:14:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/purchasing/orders/repViewOrder.php on line 18

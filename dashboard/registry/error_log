@@ -1,0 +1,46 @@
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 37
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 22
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 24
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 26
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 22
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 24
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 26
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 22
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 24
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 26
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 22
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 24
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 26
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 22
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 24
+[21-Jun-2018 17:09:06 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 26
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 31
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 19
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 21
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 22
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 26
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 30
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 31
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 32
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 19
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 21
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 22
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 26
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 30
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 31
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 32
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 19
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 21
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 22
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 26
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 30
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 31
+[22-Jun-2018 10:52:03 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 32
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 19
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 21
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 22
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2002): No such file or directory in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 26
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 30
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 31
+[22-Jun-2018 10:52:08 America/New_York] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/homeportonline/public_html/dashboard/registry/editRegProfile.php on line 32
+[27-Jun-2018 14:43:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/homeportonline/public_html/dashboard/registry/editRegItems.php on line 37
