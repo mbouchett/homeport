@@ -107,7 +107,7 @@ $hours = floor($ppTotal / 3600);
 $ppTotal = $hours + (floor(($ppTotal / 60) % 60)/60);
 
 // reverse the order of the swipes so that most recent appears at the top
-$curSwipe = array_reverse($curSwipe);
+if($curSwipe) $curSwipe = array_reverse($curSwipe);
 
 ?>
 <!DOCTYPE HTML>

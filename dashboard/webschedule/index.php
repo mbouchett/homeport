@@ -1,5 +1,5 @@
 <?php
-//index.php 2018/01
+//index.php 2018/06
 // webschedule login
 date_default_timezone_set('America/New_York');
 session_start(); // Resume up your PHP session!
