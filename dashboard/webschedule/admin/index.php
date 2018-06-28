@@ -26,7 +26,7 @@ Schedule Administrator Dashboard
        	<td><input value="Delete Old Schedule" onclick="parent.location='deleteSchedule.php'" type="button" disabled="disabled"></td>
 	</tr>
 	<tr>
-		<td><input value="Add or Remove Depts" onclick="parent.location='departments/editDepts.php'" type="button"></td>
+		<td><input value="Add or Edit Depts" onclick="parent.location='departments/editDepts.php'" type="button"></td>
 		<td><input value="Post A Message" onclick="parent.location='postMessage.php'" type="button" disabled="disabled"></td>
 		<td><input value="Employee Info" onclick="parent.location='employeeInfo.php'" type="button" disabled="disabled"></td>
 	</tr>
