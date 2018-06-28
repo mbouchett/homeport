@@ -1,0 +1,64 @@
+* {
+  margin: 0; padding: 0;
+}
+.wrapper{
+  width: 640px;
+  height: 410px;
+  margin: auto;
+  border: solid 2px #000000;
+  text-align: center;
+  padding-top: 10px;
+}
+.title{
+  display: block;
+  margin: auto;
+  width: 620px;
+  border: none;
+  font-family: Verdana;
+  font-size: 58px;
+  font-weight: bold;
+  text-align: center;
+}
+.line{
+  margin-top: -20px;
+  margin-bottom: -50px;
+  z-index: 2000;
+  width: 620px;
+}
+.discount{
+  font-family: Arial Black;
+  width: 270px;
+  border: none;
+  font-size: 200px;
+  text-align: center;
+  height: 180px;
+}
+.percent{
+display: inline;
+font-family: Arial;
+  font-size: 80px;
+}
+hr{
+  width: 80%;
+   margin: auto;
+}
+
+.footer{
+  border: none;
+  padding-top: 10px;
+  display: inline;
+  margin: auto;
+  font-family: Arial;
+  font-size: 24px;
+
+}
+.subtext{
+  display: block;
+  margin: auto;
+  width: 620px;
+  border: none;
+  font-family: Verdana;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+}
