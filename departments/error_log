@@ -1,6 +1,0 @@
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  Error while sending QUERY packet. PID=3225 in /home/homeportonline/public_html/departments/index.php on line 50
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  Error while sending QUERY packet. PID=3658 in /home/homeportonline/public_html/departments/index.php on line 50
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  Error while sending QUERY packet. PID=3184 in /home/homeportonline/public_html/departments/index.php on line 50
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  Error while sending QUERY packet. PID=3062 in /home/homeportonline/public_html/departments/index.php on line 50
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  Error while sending QUERY packet. PID=3052 in /home/homeportonline/public_html/departments/index.php on line 50
-[27-Jun-2018 19:14:01 America/Chicago] PHP Warning:  mysqli_query(): (70100/1317): Query execution was interrupted in /home/homeportonline/public_html/departments/index.php on line 50
